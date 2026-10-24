@@ -1,0 +1,4089 @@
+[
+  {
+    "Kind": "solo-0-laps-0",
+    "Values": {
+      "Mode": 0,
+      "Clock": {
+        "Laps": 0,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "3b9bd14be082797e89a67cde872915a4030fc38f6f8d13cae4eb00d959086fe1"
+  },
+  {
+    "Kind": "solo-0-laps-1",
+    "Values": {
+      "Mode": 0,
+      "Clock": {
+        "Laps": 1,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "c59ae0c357cb3761f7840c1002cc3d0767e4f0d534ad7c56f8401817819efde9"
+  },
+  {
+    "Kind": "solo-0-laps-9",
+    "Values": {
+      "Mode": 0,
+      "Clock": {
+        "Laps": 9,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "c72f9263127c61332c614aff5655b548be7e45f9c081b40ccca25249557e3b65"
+  },
+  {
+    "Kind": "solo-0-laps-10",
+    "Values": {
+      "Mode": 0,
+      "Clock": {
+        "Laps": 10,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "4495309b4062601e554a36a79d3eebf7fe0d7410f5d8deca1cbdbdb3e656a80d"
+  },
+  {
+    "Kind": "solo-0-laps-99",
+    "Values": {
+      "Mode": 0,
+      "Clock": {
+        "Laps": 99,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "6b514e2968aed84d07cb0100b62bca96f4b15fed849850de070f8193daf92b88"
+  },
+  {
+    "Kind": "solo-0-laps-255",
+    "Values": {
+      "Mode": 0,
+      "Clock": {
+        "Laps": 255,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "15a62cc20ca0d392df0f8a9c334bd3b0c04a7916e80a7e04a0bee23ed8d7546e"
+  },
+  {
+    "Kind": "solo-0-laps-65535",
+    "Values": {
+      "Mode": 0,
+      "Clock": {
+        "Laps": 65535,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "717f01d1826cb9e4b9cf665ddb93c3f5be392ae7a9e6ba21b2feee61cf494d4c"
+  },
+  {
+    "Kind": "solo-0-speed-0",
+    "Values": {
+      "Mode": 0,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 0,
+        "BestSpeed": 0,
+        "QualifyingSpeed": 0,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "1618f218ecb5b43a545095975cd8497aae99df73b7d1aaf80b7f811892415c06"
+  },
+  {
+    "Kind": "solo-0-speed-1",
+    "Values": {
+      "Mode": 0,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 1,
+        "BestSpeed": 1,
+        "QualifyingSpeed": 1,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "651bc64d9c387b64dcf58d6c9cb17795178de7d8f0a7dc4354395a88f6d74cc2"
+  },
+  {
+    "Kind": "solo-0-speed-9999",
+    "Values": {
+      "Mode": 0,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 9999,
+        "BestSpeed": 9999,
+        "QualifyingSpeed": 9999,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "ba8b6db4669285e82acf46e348ac2961231315880ba58950ad81fcb0faaa3e87"
+  },
+  {
+    "Kind": "solo-0-speed-65535",
+    "Values": {
+      "Mode": 0,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 65535,
+        "BestSpeed": 65535,
+        "QualifyingSpeed": 65535,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "d212c4d64a47245838930d1dc2a8e9a7986f5b0fd806129a06e8f9a1a23947cd"
+  },
+  {
+    "Kind": "solo-1-laps-0",
+    "Values": {
+      "Mode": 1,
+      "Clock": {
+        "Laps": 0,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "4fc5c23f5c117bbe5e8afd90563fd9bc5f0ba4aef7c26e47cabd3b650c2e09d8"
+  },
+  {
+    "Kind": "solo-1-laps-1",
+    "Values": {
+      "Mode": 1,
+      "Clock": {
+        "Laps": 1,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "69a9bac5e46c2ed2fa0eb14a93238dc5b7c5aeb56dda8564ca98d80960f509fb"
+  },
+  {
+    "Kind": "solo-1-laps-9",
+    "Values": {
+      "Mode": 1,
+      "Clock": {
+        "Laps": 9,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "1c15457511f0474a6018b382fd24efe5f3fe0cc30117f83cf1adf8627b256c63"
+  },
+  {
+    "Kind": "solo-1-laps-10",
+    "Values": {
+      "Mode": 1,
+      "Clock": {
+        "Laps": 10,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "bf5cd560c5a6da259ff5493ec61c8158217a1795baf6b3285dcf90087878edcc"
+  },
+  {
+    "Kind": "solo-1-laps-99",
+    "Values": {
+      "Mode": 1,
+      "Clock": {
+        "Laps": 99,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "299d7effe4bdc2e9d11be82bf028d86ede6fec6b40f75aa9458b3634a0ec4946"
+  },
+  {
+    "Kind": "solo-1-laps-255",
+    "Values": {
+      "Mode": 1,
+      "Clock": {
+        "Laps": 255,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "1d8d4caae87752f273ef5426d247c76bc1dc06da8e272d2c70ef11172d96946e"
+  },
+  {
+    "Kind": "solo-1-laps-65535",
+    "Values": {
+      "Mode": 1,
+      "Clock": {
+        "Laps": 65535,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "73fff5012b867b1b775136ab84fa3947712f961d57a368c03e7ca32f0f6796b4"
+  },
+  {
+    "Kind": "solo-1-speed-0",
+    "Values": {
+      "Mode": 1,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 0,
+        "BestSpeed": 0,
+        "QualifyingSpeed": 0,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "928c2cbf1c2b71794c402b3e4e42afc4ba6b4fcb849d5b6ea612ab4b0ccf9dd3"
+  },
+  {
+    "Kind": "solo-1-speed-1",
+    "Values": {
+      "Mode": 1,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 1,
+        "BestSpeed": 1,
+        "QualifyingSpeed": 1,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "c29d78fc535329a90bd91851735037cfeb46f0612385086a4990aa9c1b801365"
+  },
+  {
+    "Kind": "solo-1-speed-9999",
+    "Values": {
+      "Mode": 1,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 9999,
+        "BestSpeed": 9999,
+        "QualifyingSpeed": 9999,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "6526c8460ff72394549b8e37f9db16378b331f68cc0f1a84e83205e401ce420a"
+  },
+  {
+    "Kind": "solo-1-speed-65535",
+    "Values": {
+      "Mode": 1,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 65535,
+        "BestSpeed": 65535,
+        "QualifyingSpeed": 65535,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "14f31d287f4c0f53361880c1091b57773153d88df839b10773a59d0352c9d67c"
+  },
+  {
+    "Kind": "race-lap-gap-0",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "65cafdc6ca25afa83380d4b86a7fbaf00b6e6c41ea487d2265d825b9432b428c"
+  },
+  {
+    "Kind": "race-lap-gap-1",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 1
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "25f0fad0bcf7ab35525e33325013b8baf0ed8606acf2ff0d465938023880bf3a"
+  },
+  {
+    "Kind": "race-lap-gap-9",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 9
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "10ee26aaf5b00e5ec90d735fdfc506cd087cc5c1c64624611e08ae8448cf2d14"
+  },
+  {
+    "Kind": "race-lap-gap-10",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 10
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "94e272ad8da38f62345d776ec2e4f96072169c579b61b2632cf67d50adf815d7"
+  },
+  {
+    "Kind": "race-lap-gap-99",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 99
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "09b889d2f417010a6bfde210c78087b2429b36fec9cf5fb22e5f165d236c2d6c"
+  },
+  {
+    "Kind": "race-lap-gap-100",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 100
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "4227523b499d280628105ba2a7ce8c3a2747d0bb14452e86e04c798bdd8c7b9d"
+  },
+  {
+    "Kind": "race-lap-gap-255",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 255
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "d412653effbb1a24965c2067e5e300760c98fcce980f8e73b797f97336936fd3"
+  },
+  {
+    "Kind": "race-ahead-time-0",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "a5859111385bc797ef87ef9dcdb246fab0fd4faa0d168088277f1114d065dc49"
+  },
+  {
+    "Kind": "race-ahead-time-1",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 1,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "ee89267960af00ec6ed26d591520a688f8682a6c6dbd72f958454d6e63fdea80"
+  },
+  {
+    "Kind": "race-ahead-time-9",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 9,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "a5fd8ce9544c950fcdb292763b7921f6bf7633b7e305bc951ae9ca121523d433"
+  },
+  {
+    "Kind": "race-ahead-time-10",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 10,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "106b4c0722803d6481adf99959edf88eb3d2730f7b69dacbce9a26cb4ca5e256"
+  },
+  {
+    "Kind": "race-ahead-time-599",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 599,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "b51643fa2282858f7859f922f73019a4b0cb7a53fbf73611a4646b121300caf8"
+  },
+  {
+    "Kind": "race-ahead-time-600",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 600,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "7b127c734b36165014eccc06047c90ec64bd71d9171ae10759bbecf8034a3a9f"
+  },
+  {
+    "Kind": "race-ahead-time-1799",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 1799,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "d7cd8df531c99103cd7374f864146c6ddad5febcd109f1a0688bc1ac09bc9751"
+  },
+  {
+    "Kind": "race-ahead-time-1800",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 1800,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "d7cd8df531c99103cd7374f864146c6ddad5febcd109f1a0688bc1ac09bc9751"
+  },
+  {
+    "Kind": "race-ahead-time-65535",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 65535,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "d7cd8df531c99103cd7374f864146c6ddad5febcd109f1a0688bc1ac09bc9751"
+  },
+  {
+    "Kind": "race-ahead-laps-1",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 321,
+      "BehindTime": 0,
+      "AheadLaps": 1,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "b758be729d4c2ce6e2adcb6177ed71372878b66fb473eaa1b452db5db37ef82f"
+  },
+  {
+    "Kind": "race-ahead-laps-9",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 321,
+      "BehindTime": 0,
+      "AheadLaps": 9,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "9796048421a5252b431f242003a6203f920f6344e539e06b8c51b3feaf07ed87"
+  },
+  {
+    "Kind": "race-ahead-laps-10",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 321,
+      "BehindTime": 0,
+      "AheadLaps": 10,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "a68f140d6223edb87752aae1380da820a507cad24f707bb18c8789c7428a3d91"
+  },
+  {
+    "Kind": "race-ahead-laps-99",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 321,
+      "BehindTime": 0,
+      "AheadLaps": 99,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "e031863bfc89930a4e7a0ef02644719899cce272d855ae0dad28eec519709623"
+  },
+  {
+    "Kind": "race-ahead-laps-100",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 321,
+      "BehindTime": 0,
+      "AheadLaps": 100,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "f9dd462de3222f494e7aace25e3e6331107ba49e9065029a1d5014086c05e419"
+  },
+  {
+    "Kind": "race-ahead-laps-255",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 321,
+      "BehindTime": 0,
+      "AheadLaps": 255,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "f30c8f6e2762e30196c7a155e0669bd315b25f29acf82a860a4fde9cc356f3cf"
+  },
+  {
+    "Kind": "race-behind-time-0",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "a5859111385bc797ef87ef9dcdb246fab0fd4faa0d168088277f1114d065dc49"
+  },
+  {
+    "Kind": "race-behind-time-1",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 1,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "acb6d6dd012a30167fa82ec7d2aeface61e2c93521bd13833f222ff8ea5f7079"
+  },
+  {
+    "Kind": "race-behind-time-9",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 9,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "43239b3d1f118f4979863722a496312a31aa0fce7885d6e9718a26050a59843a"
+  },
+  {
+    "Kind": "race-behind-time-10",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 10,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "bed53ff98c08c52e92f7d7f015a4bf73b0746c40beb3d6255dfcb6f2255d7cb6"
+  },
+  {
+    "Kind": "race-behind-time-599",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 599,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "fdbacf9a18fb96ad1c984226917a605d87bc3857ba7d0827abbbc2e1ba4fe1d2"
+  },
+  {
+    "Kind": "race-behind-time-600",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 600,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "b584ba049edbe946ac7ae8d51b05d3ebe6e67ddf5e74998b5ff8955408afbf06"
+  },
+  {
+    "Kind": "race-behind-time-1799",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 1799,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "0c7bbef956649b8b314422325022e081ae966c346365664dac6b019ac1d5043f"
+  },
+  {
+    "Kind": "race-behind-time-1800",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 1800,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "0c7bbef956649b8b314422325022e081ae966c346365664dac6b019ac1d5043f"
+  },
+  {
+    "Kind": "race-behind-time-65535",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 65535,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "0c7bbef956649b8b314422325022e081ae966c346365664dac6b019ac1d5043f"
+  },
+  {
+    "Kind": "race-behind-laps-1",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 321,
+      "AheadLaps": 0,
+      "BehindLaps": 1,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "531b969fed50a8d1bcaccffe6d546943c397403ca5975b4533ca83f289830dbc"
+  },
+  {
+    "Kind": "race-behind-laps-9",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 321,
+      "AheadLaps": 0,
+      "BehindLaps": 9,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "cbf21d8ee9b95122ef3433921d87a9caa013adeafd95ad85cf9d57e0befd453b"
+  },
+  {
+    "Kind": "race-behind-laps-10",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 321,
+      "AheadLaps": 0,
+      "BehindLaps": 10,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "1a6e1a57949c4e0b7cd48cacdbbe5430c1fafccd40703a4ec9ce7a605773c37b"
+  },
+  {
+    "Kind": "race-behind-laps-99",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 321,
+      "AheadLaps": 0,
+      "BehindLaps": 99,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "565e6681fce663197b1be2b8d9fed92a6ae5a402342cb6648a210f9e1fa9d3d3"
+  },
+  {
+    "Kind": "race-behind-laps-100",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 321,
+      "AheadLaps": 0,
+      "BehindLaps": 100,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "57d851db01ba451777fbdeeaa51c1c3d562b28a14643d9aa185cd1db7677232f"
+  },
+  {
+    "Kind": "race-behind-laps-255",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 321,
+      "AheadLaps": 0,
+      "BehindLaps": 255,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "c4c1b58058459be9ba87038a41daf221ace56d181ece3f899bcd98b927b21c9d"
+  },
+  {
+    "Kind": "finished-time-4500",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 0,
+      "PlayerFlags": 255,
+      "PlayerTiming": {
+        "Crossing": 4500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "3fd08ea3913b920297d57960f4edc3f4db252d4ed04d3b54e63673d9f9427d9d"
+  },
+  {
+    "Kind": "finished-time-45000",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 0,
+      "PlayerFlags": 255,
+      "PlayerTiming": {
+        "Crossing": 45000,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "d67bb190b85e58362b7455c554efb2345e7d473372e76aab1d9d6730ef64f821"
+  },
+  {
+    "Kind": "finished-time-90000",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 0,
+      "PlayerFlags": 255,
+      "PlayerTiming": {
+        "Crossing": 90000,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "7a260c18e486237052bfd4a8a360fb914709d9056c84f2feee999bfd99f6e5ca"
+  },
+  {
+    "Kind": "finished-time-589824",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 0,
+      "PlayerFlags": 255,
+      "PlayerTiming": {
+        "Crossing": 589824,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "b986b24c78c525375bf020b17e95445d7f91f11661d3fc3cc7ef36f30476b52f"
+  },
+  {
+    "Kind": "finished-time-589825",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 0,
+      "PlayerFlags": 255,
+      "PlayerTiming": {
+        "Crossing": 589825,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "e31ba55ebd089473b736c6e9deec15ae8f28bdb157815d01b1c82886f6caa916"
+  },
+  {
+    "Kind": "flagged-after-opponent",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 2,
+      "PlayerFlags": 255,
+      "PlayerTiming": {
+        "Crossing": 45000,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "3d78f37140011f0881258e039e7453ee94d734508838b01a3f7d46c160e3ea57"
+  },
+  {
+    "Kind": "race-both-gaps",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 5,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 2500,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 432,
+      "BehindTime": 432,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": true,
+      "ComparedColors": [
+        12,
+        0
+      ]
+    },
+    "SHA256": "8d221af94f70c66fe45c038e137b64cc20aab6027a8b879e89a33247a9eb2597"
+  },
+  {
+    "Kind": "race-start",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 3,
+        "LastSpeed": 18765,
+        "BestSpeed": 22314,
+        "QualifyingSpeed": 21678,
+        "ElapsedTenths": 45,
+        "Flags": 1,
+        "Current": [
+          49,
+          53,
+          50,
+          51,
+          55
+        ],
+        "Best": [
+          48,
+          52,
+          48,
+          53,
+          48
+        ],
+        "Last": [
+          48,
+          52,
+          55,
+          56,
+          49
+        ],
+        "Qualifying": [
+          48,
+          52,
+          49,
+          57,
+          57
+        ]
+      },
+      "Position": 22,
+      "TotalLaps": 11,
+      "RemainingLaps": 11,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 0,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "SHA256": "9478f18eea0d3b73ae0657d350d72fa1c100de94e4d881464f53f1b7c1c09ae8"
+  }
+]

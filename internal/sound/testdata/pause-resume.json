@@ -1,0 +1,1724 @@
+{
+  "Pause": {
+    "Before": {
+      "Label": "ordinary-P-pause-entry",
+      "Clock": 784,
+      "Paused": true,
+      "References": 0,
+      "Controller": {
+        "Pitch": [
+          13748,
+          2048,
+          19144
+        ],
+        "PitchStep": [
+          41,
+          0,
+          22
+        ],
+        "EngineLevel": [
+          119,
+          0,
+          0
+        ],
+        "EngineNumerator": 3074637,
+        "NoiseNumerator": 2916352,
+        "NoisePitch": 8192,
+        "NoiseDrift": 306,
+        "NoiseAccumulator": 0,
+        "NoiseLevel": 0,
+        "NoiseStep": 0,
+        "RandomCountdown": 26,
+        "Requests": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "EffectTicks": 0,
+        "Priority": 0,
+        "Random": 48655
+      },
+      "Sources": {
+        "Previous": [
+          -1,
+          -1,
+          -1
+        ],
+        "Cursor": [
+          0,
+          4,
+          0
+        ],
+        "Sums": [
+          21600,
+          22464,
+          0
+        ],
+        "History": [
+          [
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700
+          ],
+          [
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Curve": [
+          486,
+          486,
+          486,
+          486,
+          513,
+          621,
+          729,
+          837,
+          945,
+          1053,
+          1161,
+          1269,
+          1377,
+          1485,
+          1593,
+          1701,
+          1809,
+          1917,
+          2025,
+          2160,
+          2295,
+          2430,
+          2565,
+          2700,
+          1782,
+          1863,
+          1944,
+          1998,
+          2052,
+          2106,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          1917,
+          1998,
+          2079,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          2538,
+          2565,
+          2592,
+          2619,
+          2646,
+          2673,
+          2700,
+          2727,
+          2754,
+          2781,
+          2808,
+          2835,
+          2862,
+          2889,
+          2916,
+          2943,
+          2970,
+          2997,
+          3024,
+          3051
+        ]
+      },
+      "Voices": [
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 223,
+          "Level": 59
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 1501,
+          "Level": 0
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 160,
+          "Level": 0
+        },
+        {
+          "Sample": "noise",
+          "Length": 4960,
+          "Period": 343,
+          "Level": 0
+        }
+      ],
+      "Dispatcher": "0xc12c2c"
+    },
+    "After": {
+      "Label": "pause-reset-complete",
+      "Clock": 784,
+      "Paused": true,
+      "References": 1,
+      "Controller": {
+        "Pitch": [
+          2048,
+          2048,
+          2048
+        ],
+        "PitchStep": [
+          0,
+          0,
+          0
+        ],
+        "EngineLevel": [
+          0,
+          0,
+          0
+        ],
+        "EngineNumerator": 3074637,
+        "NoiseNumerator": 2916352,
+        "NoisePitch": 8192,
+        "NoiseDrift": 0,
+        "NoiseAccumulator": 0,
+        "NoiseLevel": 0,
+        "NoiseStep": 0,
+        "RandomCountdown": 30,
+        "Requests": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "EffectTicks": 0,
+        "Priority": 0,
+        "Random": 48655
+      },
+      "Sources": {
+        "Previous": [
+          -1,
+          -1,
+          -1
+        ],
+        "Cursor": [
+          0,
+          0,
+          0
+        ],
+        "Sums": [
+          21600,
+          22464,
+          0
+        ],
+        "History": [
+          [
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700
+          ],
+          [
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Curve": [
+          486,
+          486,
+          486,
+          486,
+          513,
+          621,
+          729,
+          837,
+          945,
+          1053,
+          1161,
+          1269,
+          1377,
+          1485,
+          1593,
+          1701,
+          1809,
+          1917,
+          2025,
+          2160,
+          2295,
+          2430,
+          2565,
+          2700,
+          1782,
+          1863,
+          1944,
+          1998,
+          2052,
+          2106,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          1917,
+          1998,
+          2079,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          2538,
+          2565,
+          2592,
+          2619,
+          2646,
+          2673,
+          2700,
+          2727,
+          2754,
+          2781,
+          2808,
+          2835,
+          2862,
+          2889,
+          2916,
+          2943,
+          2970,
+          2997,
+          3024,
+          3051
+        ]
+      },
+      "Voices": [
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 223,
+          "Level": 0
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 1501,
+          "Level": 0
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 160,
+          "Level": 0
+        },
+        {
+          "Sample": "noise",
+          "Length": 4960,
+          "Period": 343,
+          "Level": 0
+        }
+      ],
+      "Dispatcher": "0xc12bec"
+    }
+  },
+  "PausedWait": {
+    "Before": {
+      "Label": "pause-reset-complete",
+      "Clock": 784,
+      "Paused": true,
+      "References": 1,
+      "Controller": {
+        "Pitch": [
+          2048,
+          2048,
+          2048
+        ],
+        "PitchStep": [
+          0,
+          0,
+          0
+        ],
+        "EngineLevel": [
+          0,
+          0,
+          0
+        ],
+        "EngineNumerator": 3074637,
+        "NoiseNumerator": 2916352,
+        "NoisePitch": 8192,
+        "NoiseDrift": 0,
+        "NoiseAccumulator": 0,
+        "NoiseLevel": 0,
+        "NoiseStep": 0,
+        "RandomCountdown": 30,
+        "Requests": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "EffectTicks": 0,
+        "Priority": 0,
+        "Random": 48655
+      },
+      "Sources": {
+        "Previous": [
+          -1,
+          -1,
+          -1
+        ],
+        "Cursor": [
+          0,
+          0,
+          0
+        ],
+        "Sums": [
+          21600,
+          22464,
+          0
+        ],
+        "History": [
+          [
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700
+          ],
+          [
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Curve": [
+          486,
+          486,
+          486,
+          486,
+          513,
+          621,
+          729,
+          837,
+          945,
+          1053,
+          1161,
+          1269,
+          1377,
+          1485,
+          1593,
+          1701,
+          1809,
+          1917,
+          2025,
+          2160,
+          2295,
+          2430,
+          2565,
+          2700,
+          1782,
+          1863,
+          1944,
+          1998,
+          2052,
+          2106,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          1917,
+          1998,
+          2079,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          2538,
+          2565,
+          2592,
+          2619,
+          2646,
+          2673,
+          2700,
+          2727,
+          2754,
+          2781,
+          2808,
+          2835,
+          2862,
+          2889,
+          2916,
+          2943,
+          2970,
+          2997,
+          3024,
+          3051
+        ]
+      },
+      "Voices": [
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 223,
+          "Level": 0
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 1501,
+          "Level": 0
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 160,
+          "Level": 0
+        },
+        {
+          "Sample": "noise",
+          "Length": 4960,
+          "Period": 343,
+          "Level": 0
+        }
+      ],
+      "Dispatcher": "0xc12bec"
+    },
+    "After": {
+      "Label": "paused-after-twenty-original-audio-interrupts",
+      "Clock": 803,
+      "Paused": true,
+      "References": 1,
+      "Controller": {
+        "Pitch": [
+          2048,
+          2048,
+          2048
+        ],
+        "PitchStep": [
+          0,
+          0,
+          0
+        ],
+        "EngineLevel": [
+          0,
+          0,
+          0
+        ],
+        "EngineNumerator": 3074637,
+        "NoiseNumerator": 2916352,
+        "NoisePitch": 8192,
+        "NoiseDrift": 0,
+        "NoiseAccumulator": 0,
+        "NoiseLevel": 0,
+        "NoiseStep": 0,
+        "RandomCountdown": 30,
+        "Requests": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "EffectTicks": 0,
+        "Priority": 0,
+        "Random": 48655
+      },
+      "Sources": {
+        "Previous": [
+          -1,
+          -1,
+          -1
+        ],
+        "Cursor": [
+          0,
+          0,
+          0
+        ],
+        "Sums": [
+          21600,
+          22464,
+          0
+        ],
+        "History": [
+          [
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700
+          ],
+          [
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Curve": [
+          486,
+          486,
+          486,
+          486,
+          513,
+          621,
+          729,
+          837,
+          945,
+          1053,
+          1161,
+          1269,
+          1377,
+          1485,
+          1593,
+          1701,
+          1809,
+          1917,
+          2025,
+          2160,
+          2295,
+          2430,
+          2565,
+          2700,
+          1782,
+          1863,
+          1944,
+          1998,
+          2052,
+          2106,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          1917,
+          1998,
+          2079,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          2538,
+          2565,
+          2592,
+          2619,
+          2646,
+          2673,
+          2700,
+          2727,
+          2754,
+          2781,
+          2808,
+          2835,
+          2862,
+          2889,
+          2916,
+          2943,
+          2970,
+          2997,
+          3024,
+          3051
+        ]
+      },
+      "Voices": [
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 223,
+          "Level": 0
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 1501,
+          "Level": 0
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 160,
+          "Level": 0
+        },
+        {
+          "Sample": "noise",
+          "Length": 4960,
+          "Period": 343,
+          "Level": 0
+        }
+      ],
+      "Dispatcher": "0xc12bec"
+    }
+  },
+  "Resume": {
+    "Before": {
+      "Label": "ordinary-P-resume-entry",
+      "Clock": 808,
+      "Paused": false,
+      "References": 1,
+      "Controller": {
+        "Pitch": [
+          2048,
+          2048,
+          2048
+        ],
+        "PitchStep": [
+          0,
+          0,
+          0
+        ],
+        "EngineLevel": [
+          0,
+          0,
+          0
+        ],
+        "EngineNumerator": 3074637,
+        "NoiseNumerator": 2916352,
+        "NoisePitch": 8192,
+        "NoiseDrift": 0,
+        "NoiseAccumulator": 0,
+        "NoiseLevel": 0,
+        "NoiseStep": 0,
+        "RandomCountdown": 30,
+        "Requests": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "EffectTicks": 0,
+        "Priority": 0,
+        "Random": 48655
+      },
+      "Sources": {
+        "Previous": [
+          -1,
+          -1,
+          -1
+        ],
+        "Cursor": [
+          0,
+          0,
+          0
+        ],
+        "Sums": [
+          21600,
+          22464,
+          0
+        ],
+        "History": [
+          [
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700
+          ],
+          [
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Curve": [
+          486,
+          486,
+          486,
+          486,
+          513,
+          621,
+          729,
+          837,
+          945,
+          1053,
+          1161,
+          1269,
+          1377,
+          1485,
+          1593,
+          1701,
+          1809,
+          1917,
+          2025,
+          2160,
+          2295,
+          2430,
+          2565,
+          2700,
+          1782,
+          1863,
+          1944,
+          1998,
+          2052,
+          2106,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          1917,
+          1998,
+          2079,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          2538,
+          2565,
+          2592,
+          2619,
+          2646,
+          2673,
+          2700,
+          2727,
+          2754,
+          2781,
+          2808,
+          2835,
+          2862,
+          2889,
+          2916,
+          2943,
+          2970,
+          2997,
+          3024,
+          3051
+        ]
+      },
+      "Voices": [
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 223,
+          "Level": 0
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 1501,
+          "Level": 0
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 160,
+          "Level": 0
+        },
+        {
+          "Sample": "noise",
+          "Length": 4960,
+          "Period": 343,
+          "Level": 0
+        }
+      ],
+      "Dispatcher": "0xc12bec"
+    },
+    "After": {
+      "Label": "resume-reset-complete",
+      "Clock": 808,
+      "Paused": false,
+      "References": 0,
+      "Controller": {
+        "Pitch": [
+          2048,
+          2048,
+          2048
+        ],
+        "PitchStep": [
+          0,
+          0,
+          0
+        ],
+        "EngineLevel": [
+          0,
+          0,
+          0
+        ],
+        "EngineNumerator": 3074637,
+        "NoiseNumerator": 2916352,
+        "NoisePitch": 8192,
+        "NoiseDrift": 0,
+        "NoiseAccumulator": 0,
+        "NoiseLevel": 0,
+        "NoiseStep": 0,
+        "RandomCountdown": 30,
+        "Requests": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "EffectTicks": 0,
+        "Priority": 0,
+        "Random": 48655
+      },
+      "Sources": {
+        "Previous": [
+          -1,
+          -1,
+          -1
+        ],
+        "Cursor": [
+          0,
+          0,
+          0
+        ],
+        "Sums": [
+          21600,
+          22464,
+          0
+        ],
+        "History": [
+          [
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700
+          ],
+          [
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Curve": [
+          486,
+          486,
+          486,
+          486,
+          513,
+          621,
+          729,
+          837,
+          945,
+          1053,
+          1161,
+          1269,
+          1377,
+          1485,
+          1593,
+          1701,
+          1809,
+          1917,
+          2025,
+          2160,
+          2295,
+          2430,
+          2565,
+          2700,
+          1782,
+          1863,
+          1944,
+          1998,
+          2052,
+          2106,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          1917,
+          1998,
+          2079,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          2538,
+          2565,
+          2592,
+          2619,
+          2646,
+          2673,
+          2700,
+          2727,
+          2754,
+          2781,
+          2808,
+          2835,
+          2862,
+          2889,
+          2916,
+          2943,
+          2970,
+          2997,
+          3024,
+          3051
+        ]
+      },
+      "Voices": [
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 223,
+          "Level": 0
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 1501,
+          "Level": 0
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 160,
+          "Level": 0
+        },
+        {
+          "Sample": "noise",
+          "Length": 4960,
+          "Period": 343,
+          "Level": 0
+        }
+      ],
+      "Dispatcher": "0xc12c2c"
+    }
+  },
+  "FirstUpdate": {
+    "Before": {
+      "Label": "first-resumed-mixer-entry",
+      "Clock": 808,
+      "Paused": false,
+      "References": 0,
+      "Controller": {
+        "Pitch": [
+          2048,
+          2048,
+          2048
+        ],
+        "PitchStep": [
+          0,
+          0,
+          0
+        ],
+        "EngineLevel": [
+          0,
+          0,
+          0
+        ],
+        "EngineNumerator": 3074637,
+        "NoiseNumerator": 2916352,
+        "NoisePitch": 8192,
+        "NoiseDrift": 0,
+        "NoiseAccumulator": 0,
+        "NoiseLevel": 0,
+        "NoiseStep": 0,
+        "RandomCountdown": 30,
+        "Requests": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "EffectTicks": 0,
+        "Priority": 0,
+        "Random": 48655
+      },
+      "Sources": {
+        "Previous": [
+          -1,
+          -1,
+          -1
+        ],
+        "Cursor": [
+          0,
+          0,
+          0
+        ],
+        "Sums": [
+          21600,
+          22464,
+          0
+        ],
+        "History": [
+          [
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700
+          ],
+          [
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Curve": [
+          486,
+          486,
+          486,
+          486,
+          513,
+          621,
+          729,
+          837,
+          945,
+          1053,
+          1161,
+          1269,
+          1377,
+          1485,
+          1593,
+          1701,
+          1809,
+          1917,
+          2025,
+          2160,
+          2295,
+          2430,
+          2565,
+          2700,
+          1782,
+          1863,
+          1944,
+          1998,
+          2052,
+          2106,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          1917,
+          1998,
+          2079,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          2538,
+          2565,
+          2592,
+          2619,
+          2646,
+          2673,
+          2700,
+          2727,
+          2754,
+          2781,
+          2808,
+          2835,
+          2862,
+          2889,
+          2916,
+          2943,
+          2970,
+          2997,
+          3024,
+          3051
+        ]
+      },
+      "Voices": [
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 223,
+          "Level": 0
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 1501,
+          "Level": 0
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 160,
+          "Level": 0
+        },
+        {
+          "Sample": "noise",
+          "Length": 4960,
+          "Period": 343,
+          "Level": 0
+        }
+      ],
+      "Dispatcher": "0xc12c2c"
+    },
+    "After": {
+      "Label": "first-resumed-mixer-complete",
+      "Clock": 808,
+      "Paused": false,
+      "References": 0,
+      "Controller": {
+        "Pitch": [
+          2048,
+          2048,
+          2048
+        ],
+        "PitchStep": [
+          0,
+          0,
+          0
+        ],
+        "EngineLevel": [
+          0,
+          0,
+          0
+        ],
+        "EngineNumerator": 3074637,
+        "NoiseNumerator": 2916352,
+        "NoisePitch": 8192,
+        "NoiseDrift": 0,
+        "NoiseAccumulator": 0,
+        "NoiseLevel": 0,
+        "NoiseStep": 0,
+        "RandomCountdown": 29,
+        "Requests": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "EffectTicks": 0,
+        "Priority": 0,
+        "Random": 48655
+      },
+      "Sources": {
+        "Previous": [
+          -1,
+          -1,
+          -1
+        ],
+        "Cursor": [
+          0,
+          0,
+          0
+        ],
+        "Sums": [
+          21600,
+          22464,
+          0
+        ],
+        "History": [
+          [
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700,
+            2700
+          ],
+          [
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808,
+            2808
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Curve": [
+          486,
+          486,
+          486,
+          486,
+          513,
+          621,
+          729,
+          837,
+          945,
+          1053,
+          1161,
+          1269,
+          1377,
+          1485,
+          1593,
+          1701,
+          1809,
+          1917,
+          2025,
+          2160,
+          2295,
+          2430,
+          2565,
+          2700,
+          1782,
+          1863,
+          1944,
+          1998,
+          2052,
+          2106,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          1917,
+          1998,
+          2079,
+          2160,
+          2214,
+          2268,
+          2322,
+          2376,
+          2430,
+          2484,
+          2538,
+          2592,
+          2646,
+          2700,
+          2538,
+          2565,
+          2592,
+          2619,
+          2646,
+          2673,
+          2700,
+          2727,
+          2754,
+          2781,
+          2808,
+          2835,
+          2862,
+          2889,
+          2916,
+          2943,
+          2970,
+          2997,
+          3024,
+          3051
+        ]
+      },
+      "Voices": [
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 1501,
+          "Level": 0
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 1501,
+          "Level": 0
+        },
+        {
+          "Sample": "engine",
+          "Length": 22256,
+          "Period": 1501,
+          "Level": 0
+        },
+        {
+          "Sample": "noise",
+          "Length": 4960,
+          "Period": 356,
+          "Level": 0
+        }
+      ],
+      "Dispatcher": "0xc12c2c"
+    }
+  },
+  "Phases": [
+    {
+      "label": "normal-phase",
+      "sha256": "a9263a109e67f578b38d236b1b7a590104093100d51746bd464d3eb341e6ecf4",
+      "clock": 773,
+      "paused": false,
+      "voices": [
+        {
+          "channel": 0,
+          "state": 3,
+          "volume": 59,
+          "period": 231,
+          "sampleBase": "0x7072c",
+          "length": 22256,
+          "nextByteOffset": 6354,
+          "dataWord": "0x341f",
+          "remainingWords": 7951,
+          "eventCycles": 5120
+        },
+        {
+          "channel": 1,
+          "state": 3,
+          "volume": 0,
+          "period": 1501,
+          "sampleBase": "0x7072c",
+          "length": 22256,
+          "nextByteOffset": 1310,
+          "dataWord": "0xf1e3",
+          "remainingWords": 10473,
+          "eventCycles": 485888
+        },
+        {
+          "channel": 2,
+          "state": 2,
+          "volume": 0,
+          "period": 162,
+          "sampleBase": "0x7072c",
+          "length": 22256,
+          "nextByteOffset": 7616,
+          "dataWord": "0x1608",
+          "remainingWords": 7320,
+          "eventCycles": 66048
+        },
+        {
+          "channel": 3,
+          "state": 3,
+          "volume": 0,
+          "period": 343,
+          "sampleBase": "0x75e24",
+          "length": 4960,
+          "nextByteOffset": 480,
+          "dataWord": "0xfe0",
+          "remainingWords": 2240,
+          "eventCycles": 58368
+        }
+      ]
+    },
+    {
+      "label": "paused-phase",
+      "sha256": "4640b8de73e0e7a6fbfa0cdb52b79f14cd0f72bb211edc1a44115e9a9e6c1f66",
+      "clock": 805,
+      "paused": true,
+      "voices": [
+        {
+          "channel": 0,
+          "state": 3,
+          "volume": 0,
+          "period": 223,
+          "sampleBase": "0x7072c",
+          "length": 22256,
+          "nextByteOffset": 14908,
+          "dataWord": "0x161a",
+          "remainingWords": 3674,
+          "eventCycles": 107520
+        },
+        {
+          "channel": 1,
+          "state": 3,
+          "volume": 0,
+          "period": 1501,
+          "sampleBase": "0x7072c",
+          "length": 22256,
+          "nextByteOffset": 2588,
+          "dataWord": "0x767f",
+          "remainingWords": 9834,
+          "eventCycles": 435200
+        },
+        {
+          "channel": 2,
+          "state": 3,
+          "volume": 0,
+          "period": 160,
+          "sampleBase": "0x7072c",
+          "length": 22256,
+          "nextByteOffset": 19578,
+          "dataWord": "0xe7d0",
+          "remainingWords": 1339,
+          "eventCycles": 48640
+        },
+        {
+          "channel": 3,
+          "state": 2,
+          "volume": 0,
+          "period": 343,
+          "sampleBase": "0x75e24",
+          "length": 4960,
+          "nextByteOffset": 3706,
+          "dataWord": "0xf5ed",
+          "remainingWords": 627,
+          "eventCycles": 161280
+        }
+      ]
+    },
+    {
+      "label": "resumed-phase",
+      "sha256": "44c9faa927a617c929552073a7eb64a1402bf5716c767c4e17a8b3f2e6040bf7",
+      "clock": 816,
+      "paused": false,
+      "voices": [
+        {
+          "channel": 0,
+          "state": 3,
+          "volume": 59,
+          "period": 218,
+          "sampleBase": "0x7072c",
+          "length": 22256,
+          "nextByteOffset": 16540,
+          "dataWord": "0x4942",
+          "remainingWords": 2858,
+          "eventCycles": 41984
+        },
+        {
+          "channel": 1,
+          "state": 3,
+          "volume": 0,
+          "period": 1501,
+          "sampleBase": "0x7072c",
+          "length": 22256,
+          "nextByteOffset": 3014,
+          "dataWord": "0x5e46",
+          "remainingWords": 9621,
+          "eventCycles": 418304
+        },
+        {
+          "channel": 2,
+          "state": 2,
+          "volume": 0,
+          "period": 1501,
+          "sampleBase": "0x7072c",
+          "length": 22256,
+          "nextByteOffset": 21006,
+          "dataWord": "0x3244",
+          "remainingWords": 625,
+          "eventCycles": 165376
+        },
+        {
+          "channel": 3,
+          "state": 3,
+          "volume": 0,
+          "period": 356,
+          "sampleBase": "0x75e24",
+          "length": 4960,
+          "nextByteOffset": 1454,
+          "dataWord": "0xbde",
+          "remainingWords": 1753,
+          "eventCycles": 14336
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "disk_sha256": "97b7c519983648ee0f5d82426f4d59f200b041bc5f344388a4bf71d16212d918",
+  "files": {
+    "car-shapes.bin": {
+      "bytes": 107422,
+      "sha256": "b06c92b16209574c8d1b43d62d2d711a4f2aa148d08caa115bfc90f37a16e361"
+    },
+    "cockpit-panel.png": {
+      "bytes": 3260,
+      "sha256": "10bdd0cec1951f0081e808770be82164b791cd58397014348d008c29c8666d9c"
+    },
+    "engine-sample.bin": {
+      "bytes": 22256,
+      "sha256": "b0e79c4f275c89a97ce782352256bc3c528b6e6362055c8690fd5f00f33011e0"
+    },
+    "font.bin": {
+      "bytes": 482,
+      "sha256": "a7901d0b3eb7d1e2e2fd839dde84db23f3edd3e58b55a2eef8af42db3f953910"
+    },
+    "indy-cam.png": {
+      "bytes": 1532,
+      "sha256": "c298602d764024596f4cb4d19f77f3a8393b0fdb4114f057f352bde84b445bf9"
+    },
+    "menu-logo.png": {
+      "bytes": 1742,
+      "sha256": "77d165981bfedc9f2287c64bae265cd39d81009ff129125e8d4a69833e31595f"
+    },
+    "palette.bin": {
+      "bytes": 32,
+      "sha256": "e6a965ed5c6750ede5b13b123de5a49cfe029a896690ec3ab64eb03cbc2a88a1"
+    },
+    "pit-board.png": {
+      "bytes": 1384,
+      "sha256": "c4591df231e234cecda0ffb3d40ae6491d93a89c3ef23697b8d73252d7012d2b"
+    },
+    "title.png": {
+      "bytes": 12052,
+      "sha256": "a4b2f4b8734500388637eafdbebb852b574fb49fc1cedafba7dd01a10994ec18"
+    },
+    "track-bank.bin": {
+      "bytes": 84,
+      "sha256": "122fbe016dc2e5cbda3694b3affcf2bb6df7ae4c7d366335437aaf761375c16f"
+    },
+    "track-cosine.bin": {
+      "bytes": 7922,
+      "sha256": "d4609aa7a7e49013b90b276eec0c8aa87ed696bb40572b7d43563df476e8c518"
+    },
+    "track-lines.bin": {
+      "bytes": 3100,
+      "sha256": "d8c273d27214e034d9ed02eac215f9cf39d87cddaaa991072e7cfdc352d7bac0"
+    },
+    "world-data.bin": {
+      "bytes": 46274,
+      "sha256": "a0cb005f66ecc37421a1e09deb3f48423f461b77acea50cfbb22329d3dc2f93d"
+    },
+    "world-horizon.bin": {
+      "bytes": 178,
+      "sha256": "5c9e47499eb8e218f1c944d0d2df231d321a40dce4fdd4b50bb8ef14be60689d"
+    },
+    "world-lod.bin": {
+      "bytes": 200,
+      "sha256": "51702f2f01644496e0b664312617f93b7d63ac532511188186b6074fd7e14a7c"
+    },
+    "world-trigonometry.bin": {
+      "bytes": 2048,
+      "sha256": "26aa128db54c5cf39966051dd2eeb84cb5f54dae2f15cb7a3ec85c6de5d516df"
+    },
+    "world-vertices.bin": {
+      "bytes": 13692,
+      "sha256": "f9ec5a5e516f9aaf805f8cdb21a724393e358450db2900559edabf4b0a850928"
+    },
+    "camera-arctangent.bin": {
+      "bytes": 4098,
+      "sha256": "888418ecef5e23da966982ad163593840653389af46c89c1552c86f96d69d0bc"
+    },
+    "camera-bank-gradient.bin": {
+      "bytes": 176,
+      "sha256": "49a244ed9a3246f48c4b6ea674f261bef8137e036414bc71c4cc2290282a1dc3"
+    },
+    "camera-trackside.bin": {
+      "bytes": 102,
+      "sha256": "f34f1f97a6406cd56c9065a8eb1ef8bf0cef6044b00ab2b5b6111ee9ca2cf565"
+    },
+    "track-wall-inner.bin": {
+      "bytes": 992,
+      "sha256": "c00373fabcf77be44e5699aa53d3ef30714a084d28d09863efacf1e8443b1f11"
+    },
+    "track-wall-outer.bin": {
+      "bytes": 992,
+      "sha256": "fe7c4a826fa8e117faaddeee83d0e18851b55fb16f3de6eee8cec852ee0464da"
+    },
+    "cockpit-bobs.bin": {
+      "bytes": 39840,
+      "sha256": "b9ae365266adb25ccc2a0752a10e58425081207e22065e7ddb7e1bbd2ca19125"
+    },
+    "collision-damage.bin": {
+      "bytes": 16,
+      "sha256": "b1821182528f8acf83fad025ffa22939b0a2e536bfbe59fba2031c02d165d67b"
+    },
+    "track-barriers.bin": {
+      "bytes": 146,
+      "sha256": "a0e20102acf02a473d0837d7f818c7610ff064bdf2c1f9dd1defe75d36b4c298"
+    },
+    "car-scalers.bin": {
+      "bytes": 6096,
+      "sha256": "1fa8e46938764d8d7103d7ffe339a75701b5cf79ee507c9779825718c5e5e215"
+    },
+    "car-bearings.bin": {
+      "bytes": 1282,
+      "sha256": "e1c35df67d2e4ad707070553b54e3883c3b0482e3c04ca5bfb24f87d6d9d133a"
+    },
+    "car-visibility.bin": {
+      "bytes": 166,
+      "sha256": "97a16f73248837980c8cc5f26e035260c1cfd7230c7b2fad36db395732280f3d"
+    },
+    "tire-slip-curve.bin": {
+      "bytes": 132,
+      "sha256": "b94911feca86780bf9752b1c7466e830d61e9b1973fb261f9e974689374e7eb7"
+    },
+    "track-surface-wave.bin": {
+      "bytes": 512,
+      "sha256": "99d135e9088d584e00e93fdaf009329eeaa8a199ee50ff02937e8d43b710239f"
+    },
+    "vehicle-defaults.json": {
+      "bytes": 4815,
+      "sha256": "6cddf2e8f521b3296eeff6f9732aa56b6aeea26dbd42a0b3f646e9acb945e06f"
+    },
+    "dashboard-vectors.bin": {
+      "bytes": 3988,
+      "sha256": "9204887a07d099d9d333dc333a7a9916242bd6c65008a0f3adf1b306b39d09f2"
+    },
+    "standings-art.bin": {
+      "bytes": 4948,
+      "sha256": "508105e3d4642bfae7c284a06a1b30b81dfea36c62ee48f19b5ac551f9e5d11c"
+    },
+    "noise-sample.bin": {
+      "bytes": 4960,
+      "sha256": "4b9ec45590dad478a78deedfe716dd31c95e8d3128a0c701955014e4aa4f03f1"
+    },
+    "collision-sample.bin": {
+      "bytes": 10000,
+      "sha256": "2854c959a9d3be67da6bce865d892f4278d7732aa5d8e7b168efa3e2defa963f"
+    },
+    "engine-speed-pitch.bin": {
+      "bytes": 150,
+      "sha256": "a58fa7f760d20f44e57f9b9cbb33a23799f0eba48dfa529809844b5baddb71d7"
+    },
+    "debris-templates.json": {
+      "bytes": 3952,
+      "sha256": "2d12efcc230850f92e7c4712169e5b416b98f82f16c5782eaaab3799d5da3f6c"
+    }
+  }
+}

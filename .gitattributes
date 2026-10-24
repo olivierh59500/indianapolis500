@@ -1,0 +1,2 @@
+# Preserve recovered numerical data and PCM samples byte for byte.
+*.bin binary

@@ -1,0 +1,536 @@
+[
+  {
+    "mode": 0,
+    "delta": -37,
+    "before": {
+      "laps": 7,
+      "crossingDelta": -37,
+      "lastSpeed": 19000,
+      "bestSpeed": 25000,
+      "qualifyingSpeed": 21500,
+      "lapCentiseconds": 7500,
+      "qualifyingTime": 123456,
+      "elapsedTenths": 100,
+      "phase": 10,
+      "flags": 134,
+      "signalFlags": 31,
+      "crossed": true,
+      "current": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "best": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "last": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "qualifying": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ]
+    },
+    "after": {
+      "laps": 0,
+      "crossingDelta": -1,
+      "lastSpeed": 0,
+      "bestSpeed": 25000,
+      "qualifyingSpeed": 0,
+      "lapCentiseconds": 18,
+      "qualifyingTime": 0,
+      "elapsedTenths": 0,
+      "phase": 15,
+      "flags": 0,
+      "signalFlags": 1,
+      "crossed": true,
+      "current": [
+        48,
+        48,
+        48,
+        49,
+        48
+      ],
+      "best": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "last": [
+        48,
+        48,
+        48,
+        48,
+        48
+      ],
+      "qualifying": [
+        48,
+        48,
+        48,
+        48,
+        48
+      ]
+    },
+    "distance": 39525
+  },
+  {
+    "mode": 0,
+    "delta": 37,
+    "before": {
+      "laps": 7,
+      "crossingDelta": 37,
+      "lastSpeed": 19000,
+      "bestSpeed": 25000,
+      "qualifyingSpeed": 21500,
+      "lapCentiseconds": 7500,
+      "qualifyingTime": 123456,
+      "elapsedTenths": 100,
+      "phase": 10,
+      "flags": 134,
+      "signalFlags": 31,
+      "crossed": true,
+      "current": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "best": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "last": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "qualifying": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ]
+    },
+    "after": {
+      "laps": 0,
+      "crossingDelta": -1,
+      "lastSpeed": 0,
+      "bestSpeed": 25000,
+      "qualifyingSpeed": 0,
+      "lapCentiseconds": 18,
+      "qualifyingTime": 0,
+      "elapsedTenths": 0,
+      "phase": 15,
+      "flags": 0,
+      "signalFlags": 1,
+      "crossed": true,
+      "current": [
+        48,
+        48,
+        48,
+        49,
+        48
+      ],
+      "best": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "last": [
+        48,
+        48,
+        48,
+        48,
+        48
+      ],
+      "qualifying": [
+        48,
+        48,
+        48,
+        48,
+        48
+      ]
+    },
+    "distance": 39525
+  },
+  {
+    "mode": 1,
+    "delta": -37,
+    "before": {
+      "laps": 7,
+      "crossingDelta": -37,
+      "lastSpeed": 19000,
+      "bestSpeed": 25000,
+      "qualifyingSpeed": 21500,
+      "lapCentiseconds": 7500,
+      "qualifyingTime": 123456,
+      "elapsedTenths": 100,
+      "phase": 10,
+      "flags": 134,
+      "signalFlags": 31,
+      "crossed": true,
+      "current": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "best": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "last": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "qualifying": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ]
+    },
+    "after": {
+      "laps": 0,
+      "crossingDelta": -1,
+      "lastSpeed": 0,
+      "bestSpeed": 25000,
+      "qualifyingSpeed": 0,
+      "lapCentiseconds": 8484,
+      "qualifyingTime": 0,
+      "elapsedTenths": 0,
+      "phase": 15,
+      "flags": 0,
+      "signalFlags": 17,
+      "crossed": true,
+      "current": [
+        49,
+        50,
+        52,
+        56,
+        48
+      ],
+      "best": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "last": [
+        48,
+        48,
+        48,
+        48,
+        48
+      ],
+      "qualifying": [
+        48,
+        48,
+        48,
+        48,
+        48
+      ]
+    },
+    "distance": 6000
+  },
+  {
+    "mode": 1,
+    "delta": 37,
+    "before": {
+      "laps": 7,
+      "crossingDelta": 37,
+      "lastSpeed": 19000,
+      "bestSpeed": 25000,
+      "qualifyingSpeed": 21500,
+      "lapCentiseconds": 7500,
+      "qualifyingTime": 123456,
+      "elapsedTenths": 100,
+      "phase": 10,
+      "flags": 134,
+      "signalFlags": 31,
+      "crossed": true,
+      "current": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "best": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "last": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "qualifying": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ]
+    },
+    "after": {
+      "laps": 0,
+      "crossingDelta": -1,
+      "lastSpeed": 0,
+      "bestSpeed": 25000,
+      "qualifyingSpeed": 0,
+      "lapCentiseconds": 8484,
+      "qualifyingTime": 0,
+      "elapsedTenths": 0,
+      "phase": 15,
+      "flags": 0,
+      "signalFlags": 17,
+      "crossed": true,
+      "current": [
+        49,
+        50,
+        52,
+        56,
+        48
+      ],
+      "best": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "last": [
+        48,
+        48,
+        48,
+        48,
+        48
+      ],
+      "qualifying": [
+        48,
+        48,
+        48,
+        48,
+        48
+      ]
+    },
+    "distance": 6000
+  },
+  {
+    "mode": 2,
+    "delta": -37,
+    "before": {
+      "laps": 7,
+      "crossingDelta": -37,
+      "lastSpeed": 19000,
+      "bestSpeed": 25000,
+      "qualifyingSpeed": 21500,
+      "lapCentiseconds": 7500,
+      "qualifyingTime": 123456,
+      "elapsedTenths": 100,
+      "phase": 10,
+      "flags": 134,
+      "signalFlags": 31,
+      "crossed": true,
+      "current": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "best": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "last": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "qualifying": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ]
+    },
+    "after": {
+      "laps": 0,
+      "crossingDelta": -1,
+      "lastSpeed": 0,
+      "bestSpeed": 25000,
+      "qualifyingSpeed": 0,
+      "lapCentiseconds": 8408,
+      "qualifyingTime": 0,
+      "elapsedTenths": 0,
+      "phase": 15,
+      "flags": 0,
+      "signalFlags": 17,
+      "crossed": true,
+      "current": [
+        49,
+        50,
+        52,
+        48,
+        48
+      ],
+      "best": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "last": [
+        48,
+        48,
+        48,
+        48,
+        48
+      ],
+      "qualifying": [
+        48,
+        48,
+        48,
+        48,
+        48
+      ]
+    },
+    "distance": 6302
+  },
+  {
+    "mode": 2,
+    "delta": 37,
+    "before": {
+      "laps": 7,
+      "crossingDelta": 37,
+      "lastSpeed": 19000,
+      "bestSpeed": 25000,
+      "qualifyingSpeed": 21500,
+      "lapCentiseconds": 7500,
+      "qualifyingTime": 123456,
+      "elapsedTenths": 100,
+      "phase": 10,
+      "flags": 134,
+      "signalFlags": 31,
+      "crossed": true,
+      "current": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "best": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "last": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "qualifying": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ]
+    },
+    "after": {
+      "laps": 0,
+      "crossingDelta": -1,
+      "lastSpeed": 0,
+      "bestSpeed": 25000,
+      "qualifyingSpeed": 0,
+      "lapCentiseconds": 8408,
+      "qualifyingTime": 0,
+      "elapsedTenths": 0,
+      "phase": 15,
+      "flags": 0,
+      "signalFlags": 17,
+      "crossed": true,
+      "current": [
+        49,
+        50,
+        52,
+        48,
+        48
+      ],
+      "best": [
+        48,
+        51,
+        54,
+        48,
+        48
+      ],
+      "last": [
+        48,
+        48,
+        48,
+        48,
+        48
+      ],
+      "qualifying": [
+        48,
+        48,
+        48,
+        48,
+        48
+      ]
+    },
+    "distance": 6302
+  }
+]

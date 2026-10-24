@@ -1,0 +1,128 @@
+[
+  {
+    "Kind": "race",
+    "Values": {
+      "Mode": 2,
+      "Clock": {
+        "Laps": 0,
+        "LastSpeed": 0,
+        "BestSpeed": 21003,
+        "QualifyingSpeed": 0,
+        "ElapsedTenths": 85,
+        "Flags": 0,
+        "Current": [
+          49,
+          51,
+          50,
+          53,
+          54
+        ],
+        "Best": [
+          48,
+          52,
+          50,
+          56,
+          53
+        ],
+        "Last": [
+          48,
+          48,
+          48,
+          48,
+          48
+        ],
+        "Qualifying": [
+          48,
+          48,
+          48,
+          48,
+          48
+        ]
+      },
+      "Position": 33,
+      "TotalLaps": 11,
+      "RemainingLaps": 11,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 0,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "ComparedCar": -1,
+    "SHA256": "0811c62126ba6de23b6843077bf0aa1d8df2bfbf8bd6fbc6f9fd3ba37a109af2",
+    "SHA256RGBA": "f8423138990a7785bbcea4db77d2d185ae9669e444de55dc15df6ed307ac99a7"
+  },
+  {
+    "Kind": "qualify",
+    "Values": {
+      "Mode": 1,
+      "Clock": {
+        "Laps": 0,
+        "LastSpeed": 0,
+        "BestSpeed": 21003,
+        "QualifyingSpeed": 0,
+        "ElapsedTenths": 89,
+        "Flags": 0,
+        "Current": [
+          49,
+          51,
+          51,
+          55,
+          53
+        ],
+        "Best": [
+          48,
+          52,
+          50,
+          56,
+          53
+        ],
+        "Last": [
+          48,
+          48,
+          48,
+          48,
+          48
+        ],
+        "Qualifying": [
+          48,
+          48,
+          48,
+          48,
+          48
+        ]
+      },
+      "Position": 25,
+      "TotalLaps": 61,
+      "RemainingLaps": 60,
+      "PlayerFlags": 0,
+      "PlayerTiming": {
+        "Crossing": 0,
+        "TimeGap": 0,
+        "LapGap": 0
+      },
+      "AheadTime": 0,
+      "BehindTime": 0,
+      "AheadLaps": 0,
+      "BehindLaps": 0,
+      "HasComparedCar": false,
+      "ComparedColors": [
+        0,
+        0
+      ]
+    },
+    "ComparedCar": -1,
+    "SHA256": "2f506f91ea02728d4740714ed3c5ab73649570ae0a762afce4d9c6ad1822fc7f",
+    "SHA256RGBA": "815e7d41e988bbaf195b63f3e8e3f8f5e79724429b457352b589140cc112bf6d"
+  }
+]

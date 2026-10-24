@@ -1,0 +1,122 @@
+[
+  {
+    "Mode": 0,
+    "PlayerFlags": 0,
+    "Before": 0,
+    "After": 0
+  },
+  {
+    "Mode": 0,
+    "PlayerFlags": 0,
+    "Before": 1,
+    "After": 0
+  },
+  {
+    "Mode": 0,
+    "PlayerFlags": 0,
+    "Before": 2,
+    "After": 2
+  },
+  {
+    "Mode": 0,
+    "PlayerFlags": 0,
+    "Before": 3,
+    "After": 2
+  },
+  {
+    "Mode": 0,
+    "PlayerFlags": 0,
+    "Before": 255,
+    "After": 254
+  },
+  {
+    "Mode": 1,
+    "PlayerFlags": 0,
+    "Before": 0,
+    "After": 0
+  },
+  {
+    "Mode": 1,
+    "PlayerFlags": 0,
+    "Before": 1,
+    "After": 0
+  },
+  {
+    "Mode": 1,
+    "PlayerFlags": 0,
+    "Before": 2,
+    "After": 2
+  },
+  {
+    "Mode": 1,
+    "PlayerFlags": 0,
+    "Before": 3,
+    "After": 2
+  },
+  {
+    "Mode": 1,
+    "PlayerFlags": 0,
+    "Before": 255,
+    "After": 254
+  },
+  {
+    "Mode": 2,
+    "PlayerFlags": 0,
+    "Before": 0,
+    "After": 0
+  },
+  {
+    "Mode": 2,
+    "PlayerFlags": 0,
+    "Before": 1,
+    "After": 0
+  },
+  {
+    "Mode": 2,
+    "PlayerFlags": 0,
+    "Before": 2,
+    "After": 2
+  },
+  {
+    "Mode": 2,
+    "PlayerFlags": 0,
+    "Before": 3,
+    "After": 2
+  },
+  {
+    "Mode": 2,
+    "PlayerFlags": 0,
+    "Before": 255,
+    "After": 254
+  },
+  {
+    "Mode": 2,
+    "PlayerFlags": 1,
+    "Before": 0,
+    "After": 0
+  },
+  {
+    "Mode": 2,
+    "PlayerFlags": 1,
+    "Before": 1,
+    "After": 1
+  },
+  {
+    "Mode": 2,
+    "PlayerFlags": 1,
+    "Before": 2,
+    "After": 2
+  },
+  {
+    "Mode": 2,
+    "PlayerFlags": 1,
+    "Before": 3,
+    "After": 3
+  },
+  {
+    "Mode": 2,
+    "PlayerFlags": 1,
+    "Before": 255,
+    "After": 255
+  }
+]

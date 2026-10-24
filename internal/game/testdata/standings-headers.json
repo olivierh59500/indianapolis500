@@ -1,0 +1,1712 @@
+[
+  {
+    "Kind": "race-position-1",
+    "Mode": 2,
+    "Center": 2,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 1,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 2500,
+          "TimeGap": 0,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 22984
+      },
+      {
+        "Rank": 2,
+        "Number": 4,
+        "Colors": [
+          14,
+          14
+        ],
+        "Timing": {
+          "Crossing": 2531,
+          "TimeGap": 37,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 22872
+      },
+      {
+        "Rank": 3,
+        "Number": 25,
+        "Colors": [
+          12,
+          15
+        ],
+        "Timing": {
+          "Crossing": 2562,
+          "TimeGap": 74,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 22760
+      }
+    ],
+    "SHA256": "260a8c7fe86afcbfdc41835c355c142848f58a81832bd84e555800cdb06fefd0"
+  },
+  {
+    "Kind": "race-position-2",
+    "Mode": 2,
+    "Center": 2,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 1,
+        "Number": 4,
+        "Colors": [
+          14,
+          14
+        ],
+        "Timing": {
+          "Crossing": 2500,
+          "TimeGap": 0,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 22984
+      },
+      {
+        "Rank": 2,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 2531,
+          "TimeGap": 37,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 22872
+      },
+      {
+        "Rank": 3,
+        "Number": 25,
+        "Colors": [
+          12,
+          15
+        ],
+        "Timing": {
+          "Crossing": 2562,
+          "TimeGap": 74,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 22760
+      }
+    ],
+    "SHA256": "8057ea2784d014550b5660aeb8e838805df53252d5ddaad257729581713a6cf3"
+  },
+  {
+    "Kind": "race-position-22",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "2d2268d827e1975a58febf180c90a21f26e564bfb84b145f3c0c3d6e2ec7fe9b"
+  },
+  {
+    "Kind": "race-position-32",
+    "Mode": 2,
+    "Center": 32,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 31,
+        "Number": 50,
+        "Colors": [
+          15,
+          15
+        ],
+        "Timing": {
+          "Crossing": 3430,
+          "TimeGap": 1110,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 19624
+      },
+      {
+        "Rank": 32,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3461,
+          "TimeGap": 1147,
+          "LapGap": 3
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 19512
+      },
+      {
+        "Rank": 33,
+        "Number": 24,
+        "Colors": [
+          8,
+          13
+        ],
+        "Timing": {
+          "Crossing": 3492,
+          "TimeGap": 1184,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 19400
+      }
+    ],
+    "SHA256": "6c3d8740f8aa52a204c05c3596806fe77271ca6c0205181ca83138eb7d99a3a7"
+  },
+  {
+    "Kind": "race-position-33",
+    "Mode": 2,
+    "Center": 32,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 31,
+        "Number": 50,
+        "Colors": [
+          15,
+          15
+        ],
+        "Timing": {
+          "Crossing": 3430,
+          "TimeGap": 1110,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 19624
+      },
+      {
+        "Rank": 32,
+        "Number": 24,
+        "Colors": [
+          8,
+          13
+        ],
+        "Timing": {
+          "Crossing": 3461,
+          "TimeGap": 1147,
+          "LapGap": 3
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 19512
+      },
+      {
+        "Rank": 33,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3492,
+          "TimeGap": 1184,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 19400
+      }
+    ],
+    "SHA256": "6175e408467b5d91c4d9841a4e379681279f8dffd8d681f2aca98857b175a18d"
+  },
+  {
+    "Kind": "race-laps-0",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "976a27a2c887561ce2913d40f395587813fe6732118094b622c7427ff1b26985"
+  },
+  {
+    "Kind": "race-laps-1",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "fc5cd4c9f3f10eb249e4869d01cec37a36457cefff25b20455ae59f875edc0be"
+  },
+  {
+    "Kind": "race-laps-9",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 9
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 9
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 9
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "1ab597b07a93f723822aaf212486d10c147bd3e3c29c0740964189ff674e04f2"
+  },
+  {
+    "Kind": "race-laps-10",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 10
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 10
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 10
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "64d2f420de7a7f93caa3320c1fd01dad7ea3a1ac083f3ce05b19b7eb51a0754e"
+  },
+  {
+    "Kind": "race-laps-99",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 99
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 99
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 99
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "cff66d9a1205204cd6563b1c873bfa983d6cf86bd0ff086c4d14415f6a2a19b2"
+  },
+  {
+    "Kind": "race-laps-100",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 100
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 100
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 100
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "360a1ca955f94237101fad6c1ab15a58139144615065e4bb1d82fc4e221195b4"
+  },
+  {
+    "Kind": "race-laps-255",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 255
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 255
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 255
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "46649b409f10c7a5b9bd2544c62b8032fedd13c527c8d14ab7a93ef03cc907e1"
+  },
+  {
+    "Kind": "race-retired-2",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 2,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 2,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 2,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "f8bd6f30070721a2108fa6a78bb61955c37bf4772d961cda4e3e82d747a53980"
+  },
+  {
+    "Kind": "race-retired-4",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 4,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 4,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 4,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "ae5af9e1d2b17e776a07f3662b4b15c8c491b9ba8ba2e5120fcbaab13d854774"
+  },
+  {
+    "Kind": "race-retired-6",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 6,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 6,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 6,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "c7795b9e24d1884ee46863fa2e937a37424ca5175fe7ed51bffaa5ca863f1c0a"
+  },
+  {
+    "Kind": "race-retired-8",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 8,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 8,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 8,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "2e948b93d3eecd7e59401eec1ee522e7a6dd878f8d4fe0edf3f007860da86f4a"
+  },
+  {
+    "Kind": "race-retired-10",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 10,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 10,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 10,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "ee1a82191fbc8d50f9ec132421e1831bfb677ca12f1a5e516dd597b3a7033ec9"
+  },
+  {
+    "Kind": "race-retired-12",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 12,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 12,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 12,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "97b8b06443aacf3d62ad490eef15821631333689cde16250738cabd033c3936d"
+  },
+  {
+    "Kind": "race-retired-14",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 14,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 14,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 14,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "e1f5de2e9100ff2c7376f7d8b711655faf94083905e13bf8eff451e758fd8798"
+  },
+  {
+    "Kind": "race-retired-16",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 16,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 16,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 16,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "686ca7d3d22babb6efc0395be5e72643ccf150a5c6333004b05a9a16c91a86f0"
+  },
+  {
+    "Kind": "race-retired-18",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 18,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 18,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 18,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "a6f1a0d20ab2eae58801afba3b739c6e65b92d34f3edfc17e3b0ab626868ccbf"
+  },
+  {
+    "Kind": "race-retired-20",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 20,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 20,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 20,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "38b6ced3f54587439c9668d938d6ee3758c342789e1250301965bb29b4968063"
+  },
+  {
+    "Kind": "race-retired-22",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 22,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 22,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 22,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "c33d9e94509cae005508ff87991d701f46baef7377fb9e387534fdf2c6561af9"
+  },
+  {
+    "Kind": "race-retired-24",
+    "Mode": 2,
+    "Center": 22,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 21,
+        "Number": 6,
+        "Colors": [
+          15,
+          0
+        ],
+        "Timing": {
+          "Crossing": 3120,
+          "TimeGap": 740,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 24,
+        "Speed": 20744
+      },
+      {
+        "Rank": 22,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3151,
+          "TimeGap": 777,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 24,
+        "Speed": 20632
+      },
+      {
+        "Rank": 23,
+        "Number": 7,
+        "Colors": [
+          12,
+          12
+        ],
+        "Timing": {
+          "Crossing": 3182,
+          "TimeGap": 814,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 24,
+        "Speed": 20520
+      }
+    ],
+    "SHA256": "4aeaf240380e65b949314cf593b76c335ec3a883de1a977deac20be652527e4b"
+  },
+  {
+    "Kind": "solo-0-position-1",
+    "Mode": 0,
+    "Center": 2,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 1,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 2500,
+          "TimeGap": 0,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 22984
+      },
+      {
+        "Rank": 2,
+        "Number": 4,
+        "Colors": [
+          14,
+          14
+        ],
+        "Timing": {
+          "Crossing": 2531,
+          "TimeGap": 37,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 22872
+      },
+      {
+        "Rank": 3,
+        "Number": 25,
+        "Colors": [
+          12,
+          15
+        ],
+        "Timing": {
+          "Crossing": 2562,
+          "TimeGap": 74,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 22760
+      }
+    ],
+    "SHA256": "264dbb195bba33a3cae9b7c9137e2fa89110e3192b92ff13da199af700dbc73f"
+  },
+  {
+    "Kind": "solo-0-position-15",
+    "Mode": 0,
+    "Center": 15,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 14,
+        "Number": 99,
+        "Colors": [
+          11,
+          6
+        ],
+        "Timing": {
+          "Crossing": 2903,
+          "TimeGap": 481,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 21528
+      },
+      {
+        "Rank": 15,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 2934,
+          "TimeGap": 518,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 21416
+      },
+      {
+        "Rank": 16,
+        "Number": 9,
+        "Colors": [
+          0,
+          8
+        ],
+        "Timing": {
+          "Crossing": 2965,
+          "TimeGap": 555,
+          "LapGap": 3
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 21304
+      }
+    ],
+    "SHA256": "9bd0031f8285aa1d048c41b995cca2c28e2a825f696fce0f48e6ccd6d53a5e13"
+  },
+  {
+    "Kind": "solo-0-position-33",
+    "Mode": 0,
+    "Center": 32,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 31,
+        "Number": 50,
+        "Colors": [
+          15,
+          15
+        ],
+        "Timing": {
+          "Crossing": 3430,
+          "TimeGap": 1110,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 19624
+      },
+      {
+        "Rank": 32,
+        "Number": 24,
+        "Colors": [
+          8,
+          13
+        ],
+        "Timing": {
+          "Crossing": 3461,
+          "TimeGap": 1147,
+          "LapGap": 3
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 19512
+      },
+      {
+        "Rank": 33,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3492,
+          "TimeGap": 1184,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 19400
+      }
+    ],
+    "SHA256": "f7bda315748ce55e0e93857a0d01cae5af429d18759969e756f13fa4ef7ea6f0"
+  },
+  {
+    "Kind": "solo-1-position-1",
+    "Mode": 1,
+    "Center": 2,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 1,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 2500,
+          "TimeGap": 0,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 22984
+      },
+      {
+        "Rank": 2,
+        "Number": 4,
+        "Colors": [
+          14,
+          14
+        ],
+        "Timing": {
+          "Crossing": 2531,
+          "TimeGap": 37,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 22872
+      },
+      {
+        "Rank": 3,
+        "Number": 25,
+        "Colors": [
+          12,
+          15
+        ],
+        "Timing": {
+          "Crossing": 2562,
+          "TimeGap": 74,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 22760
+      }
+    ],
+    "SHA256": "8210ee6b396f5cc4846aeec5b8e1e4497051c47b53e82003de65b5da8c00af2d"
+  },
+  {
+    "Kind": "solo-1-position-15",
+    "Mode": 1,
+    "Center": 15,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 14,
+        "Number": 99,
+        "Colors": [
+          11,
+          6
+        ],
+        "Timing": {
+          "Crossing": 2903,
+          "TimeGap": 481,
+          "LapGap": 1
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 21528
+      },
+      {
+        "Rank": 15,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 2934,
+          "TimeGap": 518,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 21416
+      },
+      {
+        "Rank": 16,
+        "Number": 9,
+        "Colors": [
+          0,
+          8
+        ],
+        "Timing": {
+          "Crossing": 2965,
+          "TimeGap": 555,
+          "LapGap": 3
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 21304
+      }
+    ],
+    "SHA256": "1d778150657cbe96b399e8db47602e834f9a97fc655d534984048bf1ee57669b"
+  },
+  {
+    "Kind": "solo-1-position-33",
+    "Mode": 1,
+    "Center": 32,
+    "TotalLaps": 10,
+    "Rows": [
+      {
+        "Rank": 31,
+        "Number": 50,
+        "Colors": [
+          15,
+          15
+        ],
+        "Timing": {
+          "Crossing": 3430,
+          "TimeGap": 1110,
+          "LapGap": 2
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 19624
+      },
+      {
+        "Rank": 32,
+        "Number": 24,
+        "Colors": [
+          8,
+          13
+        ],
+        "Timing": {
+          "Crossing": 3461,
+          "TimeGap": 1147,
+          "LapGap": 3
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 19512
+      },
+      {
+        "Rank": 33,
+        "Number": 17,
+        "Colors": [
+          9,
+          9
+        ],
+        "Timing": {
+          "Crossing": 3492,
+          "TimeGap": 1184,
+          "LapGap": 0
+        },
+        "RemainingLaps": 5,
+        "Retired": 0,
+        "Speed": 19400
+      }
+    ],
+    "SHA256": "c13eaf78b32fe3216a06150632509c2576aa7f1a09703e9ab1cac2adf06f1312"
+  }
+]
